@@ -1,0 +1,157 @@
++---200_Areas
+|   +---Line1
+|   |   |   DVZ-2112_L1.csv
+|   |   |   DVZ-2112_L1a.csv
+|   |   |   
+|   |   +---R1
+|   |   |       200EW_NORM20201202_0923.Data
+|   |   |       200EW_RECIP20201202_1200.Data
+|   |   |       
+|   |   \---R2
+|   |           200EW_NORM20201209_1017.Data
+|   |           200EW_RECIP20201209_1246.Data
+|   |           
+|   +---Line2
+|   |   |   DVZ-2112_L2.csv
+|   |   |   DVZ-2112_L2a.csv
+|   |   |   
+|   |   +---R1
+|   |   |       200EW_NORM20201215_1351.Data
+|   |   |       200EW_RECIP20201215_1636.Data
+|   |   |       
+|   |   \---R2
+|   |           200EW_NORM20201217_1551.Data
+|   |           200EW_RECIP20201217_2115.Data
+|   |           
+|   +---Line3
+|   |   |   DVZ-2112_L3a.csv
+|   |   |   
+|   |   +---R1
+|   |   |       200EW_NORM20201221_1548.Data
+|   |   |       200EW_RECIP20201221_1816.Data
+|   |   |       
+|   |   \---R2
+|   |           200EW_NORM20201223_0840.Data
+|   |           200EW_RECIP20201223_1113.Data
+|   |           
+|   +---Line3A
+|   |   |   200E_Round2b.csv
+|   |   |   R2_Line1.csv
+|   |   |   
+|   |   +---R1
+|   |   |       R2_1_200EW_NORM20210521_1607.Data
+|   |   |       R2_1_200EW_RECIP20210522_0453.Data
+|   |   |       
+|   |   \---R2
+|   |           R2_1A_NORM20210529_0625.Data
+|   |           R2_1A_RECIP20210529_0206.Data
+|   |           
+|   +---Line4
+|   |   |   DVZ-2112_L4.csv
+|   |   |   
+|   |   +---R1
+|   |   |       200EW_NORM20210107_2028.Data
+|   |   |       200EW_RECIP20210107_1610.Data
+|   |   |       
+|   |   \---R2
+|   |           200EW_NORM20210113_1714.Data
+|   |           200EW_RECIP20210113_1253.Data
+|   |           
+|   +---Line5
+|   |   |   DVZ-2112_L5.csv
+|   |   |   
+|   |   +---R1
+|   |   |       200EW_NORM20210119_0808.Data
+|   |   |       200EW_RECIP20210119_1049.Data
+|   |   |       
+|   |   \---R2
+|   |           200EW_NORM20210121_1404.Data
+|   |           200EW_RECIP20210121_0937.Data
+|   |           
+|   \---Line6
+|       |   200EW_Line6.csv
+|       |   
+|       +---R1
+|       |       R2_2_NORM20210604_2107.Data
+|       |       R2_2_RECIP20210605_0032.Data
+|       |       
+|       \---R2
+|               R2_2A_NORM20210609_1450.Data
+|               R2_2A_RECIP20210609_1812.Data
+|               
+\---South_TEDF_600Area
+    +---Area1
+    |   +---NE
+    |   |       A1_NE_GPS.csv
+    |   |       A1_NE_NORM20210310_0926.Data
+    |   |       A1_NE_RECIP20210310_1538.Data
+    |   |       
+    |   +---P
+    |   |       A1P_NORM20210129_1130.Data
+    |   |       A1P_RECIP20210129_1559.Data
+    |   |       Transect 1P.csv
+    |   |       
+    |   \---SW
+    |           A1SW_NORM20210226_1729.Data
+    |           A1SW_RECIP20210226_2309.Data
+    |           Area_1-South_with_2_wells.csv
+    |           
+    +---Area2
+    |   +---NE
+    |   |       A2_NE_NORM20210313_1123.Data
+    |   |       A2_NE_RECIP20210313_2252.Data
+    |   |       Area_2_NE_GPS.csv
+    |   |       
+    |   +---P
+    |   |       A2P_NORM20210202_1808.Data
+    |   |       A2P_RECIP20210202_1349.Data
+    |   |       Transect 2P.csv
+    |   |       
+    |   \---SW
+    |       +---R1
+    |       |       A2_SW_P1_GPS.csv
+    |       |       A2_SW_P1_NORM20210327_1528.Data
+    |       |       A2_SW_P1_RECIP20210326_1147.Data
+    |       |       
+    |       +---R2
+    |       |       A2_SW_P2_GPS.csv
+    |       |       A2_SW_P2_NORM20210402_1734.Data
+    |       |       A2_SW_P2_RECIP20210402_2059.Data
+    |       |       
+    |       \---R3
+    |               A2_P3_NORM20210420_1057.Data
+    |               A2_P3_RECIP20210420_1346.Data
+    |               A2_SW_P3_GPS.csv
+    |               
+    \---Area3
+        +---NE
+        |       A3_NE_GPS.csv
+        |       A3_NE_NORM20210318_1058.Data
+        |       A3_NE_RECIP20210318_0635.Data
+        |       
+        +---P
+        |       A3P_NORM20210209_1752.Data
+        |       A3P_RECIP20210209_1249.Data
+        |       Transect_3P_GPS.csv
+        |       
+        \---SW
+            |   A3_P1_P2.csv
+            |   A3_P4_GPS.csv
+            |   DVZ_2112_Area3_P3.csv
+            |   
+            +---R1
+            |       A3_P1_NORM20210723_1230.Data
+            |       A3_P1_RECIP20210726_1145.Data
+            |       
+            +---R2
+            |       A3_P2_NORM20210717_0310.Data
+            |       A3_P2_RECIP20210716_2252.Data
+            |       
+            +---R3
+            |       A3_P3_NORM20210702_0854.Data
+            |       A3_P3_RECIP20210702_1529.Data
+            |       
+            \---R4
+                    A3_SW_P4_NORM20210504_0755.Data
+                    A3_SW_P4_RECIP20210503_1635.Data
+                    
